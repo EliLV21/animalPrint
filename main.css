@@ -1,0 +1,20 @@
+body{
+background-image: url(https://s-media-cache-ak0.pinimg.com/736x/59/3c/6e/593c6e329a76b11b8fee0200d4f3632b.jpg);
+background-position: center;
+background-repeat: no-repeat;
+text-align: center;
+font-family: 'Pacifico', cursive;
+}
+h1{
+font-size: 55px;
+color: #FF0040;
+margin-left: 30px;
+}
+.texto{
+  font-size: 25px;
+  width: 500px;
+  margin-left: 320px;
+}
+.nombres{
+  text-decoration: none;
+}
