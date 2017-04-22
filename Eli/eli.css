@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/b5/8c/32/b58c32d18df12fe8bbb2675655f66d07.jpg);
+  background-size: 100%;
+}
+h1{
+  font-family: 'Petit Formal Script', cursive;
+  color: #1C1C1C;
+  font-size: 50px;
+  margin: 15px;
+}
+.signo{
+  color: #FF0040;
+}
+img{
+  border-radius: 100px;
+  border-style: dotted;
+  opacity: .85;
+  margin-top: 50px;
+  width: 250px;
+  height: 250px;
+}
+.texto{
+  font-family: 'Give You Glory', cursive;
+  color: #FF0040;
+  font-size: 30px;
+  position: absolute;
+  top: 85px;
+}
+#info{
+  float: left;
+  margin-left: 95px;
+}
+#hobbies{
+  margin-left: 730px;
+}
