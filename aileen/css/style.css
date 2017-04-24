@@ -1,0 +1,33 @@
+body{
+  background: purple;
+}
+#marco{
+  width: 300px;
+  height: 300px;
+  position:absolute;
+  left:10%;
+  top:100px;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+#nombre{
+  font-family: 'Sacramento', cursive;
+  font-style: italic;
+  font-size:23px;
+  position:relative;
+  right:20px
+}
+#descripcion{
+  width: 300px;
+  height: 300px;
+  position:absolute;
+  left:400px;
+  top:100px;
+  font-style: italic;
+  font-size: 25px;
+  font-family: 'Sacramento', cursive;
+}
+
+}
