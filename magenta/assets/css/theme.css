@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  display: inline-block;
+  position: absolute;
+  width: 200px;
+}
+
+p {
+  display: inline-block;
+  position: absolute;
+  width: 300px;
+  left: 225px;
+  top: 55px;
+}
+
+h4 {
+  position: absolute;
+  top: 300px;
+}
+
+ul {
+  position: absolute;
+  top: 340px;
+}
